@@ -1,0 +1,13 @@
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csprojAssemblyReference.cache
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.AssemblyInfo.cs
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.exe
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.deps.json
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.json
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.runtimeconfig.dev.json
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.dll
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\bin\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.dll
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.pdb
+C:\xampp\htdocs\Lenguajes de programacion\EXAMPLESOOP\ejercicio2\obj\Debug\netcoreapp3.1\ejercicio2.genruntimeconfig.cache

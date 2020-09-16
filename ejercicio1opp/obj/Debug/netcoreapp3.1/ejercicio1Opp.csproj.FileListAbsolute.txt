@@ -1,0 +1,13 @@
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.csprojAssemblyReference.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.AssemblyInfoInputs.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.AssemblyInfo.cs
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.csproj.CoreCompileInputs.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.exe
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.deps.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.runtimeconfig.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.runtimeconfig.dev.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.dll
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\bin\Debug\netcoreapp3.1\ejercicio1Opp.pdb
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.dll
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.pdb
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\ejercicio1Opp\obj\Debug\netcoreapp3.1\ejercicio1Opp.genruntimeconfig.cache

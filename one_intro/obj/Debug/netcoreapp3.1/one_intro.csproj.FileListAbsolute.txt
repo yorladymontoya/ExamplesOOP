@@ -1,0 +1,26 @@
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.exe
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.deps.json
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.json
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.dev.json
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.dll
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.pdb
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csprojAssemblyReference.cache
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfoInputs.cache
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfo.cs
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csproj.CoreCompileInputs.cache
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.dll
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.pdb
+D:\CESDE\APLICACACIONES MOVILES1\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.genruntimeconfig.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.exe
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.deps.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.runtimeconfig.dev.json
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.dll
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\bin\Debug\netcoreapp3.1\one_intro.pdb
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csprojAssemblyReference.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfoInputs.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.AssemblyInfo.cs
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.csproj.CoreCompileInputs.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.dll
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.pdb
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\one_intro\obj\Debug\netcoreapp3.1\one_intro.genruntimeconfig.cache

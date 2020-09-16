@@ -1,0 +1,4 @@
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\obj\Debug\netcoreapp3.1\ExamplesOOP.csprojAssemblyReference.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\obj\Debug\netcoreapp3.1\ExamplesOOP.AssemblyInfoInputs.cache
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\obj\Debug\netcoreapp3.1\ExamplesOOP.AssemblyInfo.cs
+D:\CESDE\LENGUAJES DE PROGRAMACION\ExamplesOOP\obj\Debug\netcoreapp3.1\ExamplesOOP.csproj.CoreCompileInputs.cache
