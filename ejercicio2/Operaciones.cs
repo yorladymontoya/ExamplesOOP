@@ -26,10 +26,7 @@ namespace ejercicio2{
                 {
                     System.Console.WriteLine("El modelo debe estar entre 2017 y 2022");
                 }
-
             }
-            
-            
             }
         
         
